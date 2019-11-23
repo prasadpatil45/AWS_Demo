@@ -36,7 +36,7 @@
 
     - **Ans:** A Security Group defines which traffic is allowed TO or FROM  EC2 instance. Whereas ACL, controls at the SUBNET level, scrutinize the traffic TO or FROM a Subnet.
 
-1. **Q: Hon an EC2 instance in a VPC establish the connection with the internet?**
+1. **Q: How can an EC2 instance in a VPC establish the connection with the internet?**
 
     - **Ans:** Using either a Public IP or an Elastic IP.
 
